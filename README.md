@@ -1,4 +1,4 @@
-# 🐍 Feed The Snake
+# Feed The Snake
 
 A Snake Game built using Python and Pygame.
 

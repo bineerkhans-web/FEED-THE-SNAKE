@@ -10,4 +10,5 @@ A Snake Game built using Python and Pygame.
 
 ## Run
 pip install -r requirements.txt
+
 python snake_game.py
